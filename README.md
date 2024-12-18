@@ -12,7 +12,7 @@ Anggota :
 5. Senopati Fadhiilah Langit
 
 
-This project is a web-based application that allows users to manage clothes, storages, and user accounts. It includes features for user authentication, clothes management, storage management, and admin functionalities. The application is built using Laravel, a PHP framework, and utilizes a MySQL database for data storage.
+This project is a web-based application that allows users to manage clothes, storages, and user accounts. It includes features for user authentication, clothes management, storage management, admin functionalities, and payment gateways. The application is built using Laravel, a PHP framework, and utilizes a MySQL database for data storage.
 
 ## Features
 
@@ -25,7 +25,8 @@ This project is a web-based application that allows users to manage clothes, sto
 - User Dashboard
   - View and Edit Profile
   - Change Password
-  - View Purchased Clothe
+  - View Purchased Clothes
+  - Online Payment with Midtrans
 
 ## Installation
 
